@@ -40,6 +40,10 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
         {
+          name: 'keywords',
+          content: 'gatsby, react, tutorial, something else'
+        },
+        {
           property: `og:title`,
           content: title,
         },
