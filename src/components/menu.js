@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import { nominalTypeHack } from 'prop-types';
 
 const Menu = () => {
     return (
